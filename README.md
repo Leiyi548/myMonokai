@@ -1,18 +1,9 @@
-# README
+# myMonkai Theme
 
-Custom theme based on Monokai Pro and OneDark pro theme
+This is my first theme
 
-## This is the README for your extension "myMonokai"
+Custom theme based on Monokai Pro and OneDark Pro
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## ScreenShot
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-- Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-- Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+![](https://s2.loli.net/2022/03/27/hrS2nJTEN4Gt8vP.png)

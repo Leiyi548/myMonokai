@@ -1,21 +1,22 @@
 {
-    "name": "myMonokai",
-    "displayName": "myMonokai",
-    "description": "Custom theme based on Monokai Pro",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.65.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "myMonokai",
-                "uiTheme": "vs-dark",
-                "path": "./themes/myMonokai-color-theme.json"
-            }
-        ]
-    }
+  "name": "myMonokai",
+  "displayName": "myMonokai",
+  "publisher": "Leiyi548",
+  "description": "Custom theme based on Monokai Pro",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "myMonokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/myMonokai-color-theme.json"
+      }
+    ]
+  }
 }
